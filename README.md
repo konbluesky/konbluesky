@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💼 "Building exceptional projects with a passionate and collaborative team." 
+
 <!--
 **konbluesky/konbluesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
