@@ -2,6 +2,11 @@
 
 💼 "Building exceptional projects with a passionate and collaborative team." 
 
+## Languages and Tools
+<div align=center>
+<img align="center" src="[https://skillicons.dev/icons?i=java,spring,go,vue,python,rust,vim,docker,linux,sqlite,mysql,mongo,redis,flask,fastapi,git,github,md,nginx,powershell](https://skillicons.dev/icons?i=spring,java,solidity,vue,nodejs,nextjs,aws,gcp,docker,nginx,github,gitlab,maven,gradle,hibernate,ipfs,js,typescript,jquery,kafka,linux,less,mysql,npm,opencv,postgres,postman,prometheus,idea,pycharm,rabbitmq,redhat,regex,redis,remix,sass,sentry,vscode,twitter,vim,npm,yarn)&theme=light&perline=10" />
+</div>
+
 <!--
 **konbluesky/konbluesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
