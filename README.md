@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 💼 "Building exceptional projects with a passionate and collaborative team." 
-
+ 
 ## Languages and Tools
 <div align=center>
 <img align="center" src="https://skillicons.dev/icons?i=spring,java,solidity,vue,nodejs,nextjs,aws,gcp,docker,nginx,github,gitlab,maven,gradle,hibernate,ipfs,js,typescript,jquery,kafka,linux,mysql,npm,opencv,postgres,postman,prometheus,idea,pycharm,rabbitmq,redhat,regex,redis,remix,sentry,vscode,twitter,vim,npm,yarn&theme=light&perline=10" />
